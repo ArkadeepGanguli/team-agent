@@ -1,0 +1,122 @@
+[
+  {
+    "id": "RZ9X43bf18pYk8u09vr4Z",
+    "projectId": "fz5UBBxQMFrcwXM7dBFni",
+    "memberId": "gcB_Rx1tb5E_0ZrlkC10O",
+    "title": "Define Project Requirements",
+    "description": "Gather and document project requirements from stakeholders",
+    "role": "Product Manager",
+    "status": "todo",
+    "handoffTo": "HxvKrHDD8xYid_W1QkjaY",
+    "priority": "high",
+    "createdAt": "2026-03-14T09:04:55.359Z"
+  },
+  {
+    "id": "ElJ6KTf235dknm5wKNl80",
+    "projectId": "fz5UBBxQMFrcwXM7dBFni",
+    "memberId": "HxvKrHDD8xYid_W1QkjaY",
+    "title": "Design User Interface",
+    "description": "Create wireframes and high-fidelity designs for the application",
+    "role": "UI Designer",
+    "status": "blocked",
+    "blockedBy": "gcB_Rx1tb5E_0ZrlkC10O",
+    "handoffTo": "h8Q97hDwGOETuW03-1XHX",
+    "priority": "medium",
+    "createdAt": "2026-03-14T09:04:55.359Z"
+  },
+  {
+    "id": "C9HyiOJQsHkL1iYsgtgum",
+    "projectId": "fz5UBBxQMFrcwXM7dBFni",
+    "memberId": "h8Q97hDwGOETuW03-1XHX",
+    "title": "Develop Application Backend",
+    "description": "Implement backend logic and integrate with Next.js 14",
+    "role": "Lead Developer",
+    "status": "blocked",
+    "blockedBy": "HxvKrHDD8xYid_W1QkjaY",
+    "priority": "high",
+    "createdAt": "2026-03-14T09:04:55.359Z"
+  },
+  {
+    "id": "C39LaHaTfBE23v7F_c0NP",
+    "projectId": "fz5UBBxQMFrcwXM7dBFni",
+    "memberId": "h8Q97hDwGOETuW03-1XHX",
+    "title": "Set up x402 Calls and Facinet Integration",
+    "description": "Implement x402 calls and integrate with Facinet on Avalanche Fuji",
+    "role": "Lead Developer",
+    "status": "todo",
+    "priority": "low",
+    "createdAt": "2026-03-14T09:04:55.359Z"
+  },
+  {
+    "id": "7S2pJo6dfXX8tZL3GlPOA",
+    "projectId": "fz5UBBxQMFrcwXM7dBFni",
+    "memberId": "gcB_Rx1tb5E_0ZrlkC10O",
+    "title": "Define Team Roles and Agent Orchestration",
+    "description": "Define team roles and configure agent orchestration",
+    "role": "Product Manager",
+    "status": "todo",
+    "handoffTo": "h8Q97hDwGOETuW03-1XHX",
+    "priority": "medium",
+    "createdAt": "2026-03-14T09:04:55.359Z"
+  },
+  {
+    "id": "D2wo1PopthQ0n3YT5L9qB",
+    "projectId": "6YNiW-FGMzvYIZwkjIJHy",
+    "memberId": "Jnq0yRu0ba7ffBU5FcFRa",
+    "title": "Define Project Requirements",
+    "description": "Gather and document project requirements from stakeholders",
+    "role": "Product Manager",
+    "status": "todo",
+    "handoffTo": "9M1cu0MbUgRpSOZ2x_P4m",
+    "priority": "high",
+    "createdAt": "2026-03-14T09:24:03.437Z"
+  },
+  {
+    "id": "Rs8FYIe4N9V4ocxamiXpy",
+    "projectId": "6YNiW-FGMzvYIZwkjIJHy",
+    "memberId": "9M1cu0MbUgRpSOZ2x_P4m",
+    "title": "Design User Interface",
+    "description": "Create wireframes and high-fidelity designs for the application",
+    "role": "UI Designer",
+    "status": "blocked",
+    "blockedBy": "Jnq0yRu0ba7ffBU5FcFRa",
+    "handoffTo": "x1dVmlXpQ2MfIhDHrqMtD",
+    "priority": "medium",
+    "createdAt": "2026-03-14T09:24:03.437Z"
+  },
+  {
+    "id": "ffSkN58GoEWzqjzHGyRfx",
+    "projectId": "6YNiW-FGMzvYIZwkjIJHy",
+    "memberId": "x1dVmlXpQ2MfIhDHrqMtD",
+    "title": "Develop Application Backend",
+    "description": "Implement backend logic and integrate with Next.js 14",
+    "role": "Lead Developer",
+    "status": "blocked",
+    "blockedBy": "9M1cu0MbUgRpSOZ2x_P4m",
+    "priority": "high",
+    "createdAt": "2026-03-14T09:24:03.437Z"
+  },
+  {
+    "id": "4qe7zplrYG9r3wSrkw853",
+    "projectId": "6YNiW-FGMzvYIZwkjIJHy",
+    "memberId": "x1dVmlXpQ2MfIhDHrqMtD",
+    "title": "Integrate x402 Calls and Facinet Payment Gateway",
+    "description": "Implement x402 calls and integrate Facinet payment gateway on Avalanche Fuji",
+    "role": "Lead Developer",
+    "status": "todo",
+    "priority": "high",
+    "createdAt": "2026-03-14T09:24:03.437Z"
+  },
+  {
+    "id": "AhNke-EJRy4B2tqgK5gJd",
+    "projectId": "6YNiW-FGMzvYIZwkjIJHy",
+    "memberId": "Jnq0yRu0ba7ffBU5FcFRa",
+    "title": "Create Dashboard for Task Delivery Visibility",
+    "description": "Define requirements for the dashboard and work with the development team to implement it",
+    "role": "Product Manager",
+    "status": "todo",
+    "handoffTo": "x1dVmlXpQ2MfIhDHrqMtD",
+    "priority": "medium",
+    "createdAt": "2026-03-14T09:24:03.437Z"
+  }
+]

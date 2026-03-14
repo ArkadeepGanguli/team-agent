@@ -1,0 +1,18 @@
+[
+  {
+    "id": "fz5UBBxQMFrcwXM7dBFni",
+    "name": "TeamAgent Vibeathon Demo",
+    "brief": "Build a production-ready Next.js 14 multi-agent orchestration app where an admin defines team roles, AI assigns role-matched tasks, schedules dependencies and handoffs day-by-day, sends email/Slack notifications, and provides each member a private helper assistant. Include paid x402 calls per agent action settled via Facinet on Avalanche Fuji and clear dashboard visibility for task delivery.",
+    "adminFid": 1,
+    "createdAt": "2026-03-14T08:58:43.399Z",
+    "status": "active"
+  },
+  {
+    "id": "6YNiW-FGMzvYIZwkjIJHy",
+    "name": "TeamAgent Vibeathon Demo 2",
+    "brief": "Build a production-ready Next.js 14 multi-agent orchestration app where an admin defines team roles, AI assigns role-matched tasks, schedules dependencies and handoffs day-by-day, sends email/Slack notifications, and provides each member a private helper assistant. Include paid x402 calls per agent action settled via Facinet on Avalanche Fuji and clear dashboard visibility for task delivery.",
+    "adminFid": 1,
+    "createdAt": "2026-03-14T09:21:37.754Z",
+    "status": "active"
+  }
+]

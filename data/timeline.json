@@ -1,0 +1,178 @@
+[
+  {
+    "id": "aq-MklR3uu02DrRBNa14e",
+    "projectId": "fz5UBBxQMFrcwXM7dBFni",
+    "taskId": "RZ9X43bf18pYk8u09vr4Z",
+    "memberId": "gcB_Rx1tb5E_0ZrlkC10O",
+    "scheduledDate": "2026-03-14",
+    "dayNumber": 1,
+    "isHandoff": false,
+    "isBlocker": false,
+    "note": "Scheduled"
+  },
+  {
+    "id": "SwkuolqWIsKhaVLJXQQHA",
+    "projectId": "fz5UBBxQMFrcwXM7dBFni",
+    "taskId": "C9HyiOJQsHkL1iYsgtgum",
+    "memberId": "h8Q97hDwGOETuW03-1XHX",
+    "scheduledDate": "2026-03-14",
+    "dayNumber": 1,
+    "isHandoff": false,
+    "isBlocker": true,
+    "note": "Blocked by HxvKrHDD8xYid_W1QkjaY"
+  },
+  {
+    "id": "lMtm_wXyn_vofcP3SMIJf",
+    "projectId": "fz5UBBxQMFrcwXM7dBFni",
+    "taskId": "ElJ6KTf235dknm5wKNl80",
+    "memberId": "HxvKrHDD8xYid_W1QkjaY",
+    "scheduledDate": "2026-03-14",
+    "dayNumber": 1,
+    "isHandoff": false,
+    "isBlocker": true,
+    "note": "Blocked by gcB_Rx1tb5E_0ZrlkC10O"
+  },
+  {
+    "id": "nwz1mDj7wQCpzzgyIPWW4",
+    "projectId": "fz5UBBxQMFrcwXM7dBFni",
+    "taskId": "7S2pJo6dfXX8tZL3GlPOA",
+    "memberId": "gcB_Rx1tb5E_0ZrlkC10O",
+    "scheduledDate": "2026-03-14",
+    "dayNumber": 1,
+    "isHandoff": false,
+    "isBlocker": false,
+    "note": "Scheduled"
+  },
+  {
+    "id": "1NIzZ_YpObNvZw-Itw1k0",
+    "projectId": "fz5UBBxQMFrcwXM7dBFni",
+    "taskId": "C39LaHaTfBE23v7F_c0NP",
+    "memberId": "h8Q97hDwGOETuW03-1XHX",
+    "scheduledDate": "2026-03-14",
+    "dayNumber": 1,
+    "isHandoff": false,
+    "isBlocker": false,
+    "note": "Scheduled"
+  },
+  {
+    "id": "m3on8W2ykAlgL0RJcKpm9",
+    "projectId": "fz5UBBxQMFrcwXM7dBFni",
+    "taskId": "RZ9X43bf18pYk8u09vr4Z",
+    "memberId": "HxvKrHDD8xYid_W1QkjaY",
+    "scheduledDate": "2026-03-15",
+    "dayNumber": 2,
+    "isHandoff": true,
+    "isBlocker": false,
+    "note": "Handoff from task Define Project Requirements"
+  },
+  {
+    "id": "6DhBbMqZ7NavnqTpcyytV",
+    "projectId": "fz5UBBxQMFrcwXM7dBFni",
+    "taskId": "ElJ6KTf235dknm5wKNl80",
+    "memberId": "h8Q97hDwGOETuW03-1XHX",
+    "scheduledDate": "2026-03-15",
+    "dayNumber": 2,
+    "isHandoff": true,
+    "isBlocker": false,
+    "note": "Handoff from task Design User Interface"
+  },
+  {
+    "id": "CqUwAxDAyMHpZonZTMgRP",
+    "projectId": "fz5UBBxQMFrcwXM7dBFni",
+    "taskId": "7S2pJo6dfXX8tZL3GlPOA",
+    "memberId": "h8Q97hDwGOETuW03-1XHX",
+    "scheduledDate": "2026-03-15",
+    "dayNumber": 2,
+    "isHandoff": true,
+    "isBlocker": false,
+    "note": "Handoff from task Define Team Roles and Agent Orchestration"
+  },
+  {
+    "id": "H3G__fbdRVqhy27wHXxw3",
+    "projectId": "6YNiW-FGMzvYIZwkjIJHy",
+    "taskId": "D2wo1PopthQ0n3YT5L9qB",
+    "memberId": "Jnq0yRu0ba7ffBU5FcFRa",
+    "scheduledDate": "2026-03-14",
+    "dayNumber": 1,
+    "isHandoff": false,
+    "isBlocker": false,
+    "note": "Scheduled"
+  },
+  {
+    "id": "MHrwT72eSMfRgOFKGo5CJ",
+    "projectId": "6YNiW-FGMzvYIZwkjIJHy",
+    "taskId": "ffSkN58GoEWzqjzHGyRfx",
+    "memberId": "x1dVmlXpQ2MfIhDHrqMtD",
+    "scheduledDate": "2026-03-14",
+    "dayNumber": 1,
+    "isHandoff": false,
+    "isBlocker": true,
+    "note": "Blocked by 9M1cu0MbUgRpSOZ2x_P4m"
+  },
+  {
+    "id": "dOf9I1SITjdEacvsd-T8A",
+    "projectId": "6YNiW-FGMzvYIZwkjIJHy",
+    "taskId": "4qe7zplrYG9r3wSrkw853",
+    "memberId": "x1dVmlXpQ2MfIhDHrqMtD",
+    "scheduledDate": "2026-03-14",
+    "dayNumber": 1,
+    "isHandoff": false,
+    "isBlocker": false,
+    "note": "Scheduled"
+  },
+  {
+    "id": "rbDR23REXs1qBnO3Y91wD",
+    "projectId": "6YNiW-FGMzvYIZwkjIJHy",
+    "taskId": "Rs8FYIe4N9V4ocxamiXpy",
+    "memberId": "9M1cu0MbUgRpSOZ2x_P4m",
+    "scheduledDate": "2026-03-14",
+    "dayNumber": 1,
+    "isHandoff": false,
+    "isBlocker": true,
+    "note": "Blocked by Jnq0yRu0ba7ffBU5FcFRa"
+  },
+  {
+    "id": "jPKXK8KMxR9D9w5N4wGd1",
+    "projectId": "6YNiW-FGMzvYIZwkjIJHy",
+    "taskId": "AhNke-EJRy4B2tqgK5gJd",
+    "memberId": "Jnq0yRu0ba7ffBU5FcFRa",
+    "scheduledDate": "2026-03-14",
+    "dayNumber": 1,
+    "isHandoff": false,
+    "isBlocker": false,
+    "note": "Scheduled"
+  },
+  {
+    "id": "puFwwzWqp-GyqWLluisiF",
+    "projectId": "6YNiW-FGMzvYIZwkjIJHy",
+    "taskId": "D2wo1PopthQ0n3YT5L9qB",
+    "memberId": "9M1cu0MbUgRpSOZ2x_P4m",
+    "scheduledDate": "2026-03-15",
+    "dayNumber": 2,
+    "isHandoff": true,
+    "isBlocker": false,
+    "note": "Handoff from task Define Project Requirements"
+  },
+  {
+    "id": "4h3UYUeegMzTYNIwYV9Ju",
+    "projectId": "6YNiW-FGMzvYIZwkjIJHy",
+    "taskId": "Rs8FYIe4N9V4ocxamiXpy",
+    "memberId": "x1dVmlXpQ2MfIhDHrqMtD",
+    "scheduledDate": "2026-03-15",
+    "dayNumber": 2,
+    "isHandoff": true,
+    "isBlocker": false,
+    "note": "Handoff from task Design User Interface"
+  },
+  {
+    "id": "JARNJTK-LD3jDSZjccQkf",
+    "projectId": "6YNiW-FGMzvYIZwkjIJHy",
+    "taskId": "AhNke-EJRy4B2tqgK5gJd",
+    "memberId": "x1dVmlXpQ2MfIhDHrqMtD",
+    "scheduledDate": "2026-03-15",
+    "dayNumber": 2,
+    "isHandoff": true,
+    "isBlocker": false,
+    "note": "Handoff from task Create Dashboard for Task Delivery Visibility"
+  }
+]
