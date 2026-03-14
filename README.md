@@ -8,7 +8,7 @@ It coordinates:
 - `Notification Agent`: drafts and dispatches email/Slack updates.
 - `Helper Agent`: provides private, role-scoped assistant responses for members.
 
-Every agent API action is modeled as a paid x402 call (`$0.01` USDC challenge) with facilitator-backed verification logic.
+Every agent API action is modeled as a paid x402 call (`$0.01` USDC challenge in AVAX Chain) with facilitator-backed verification logic.
 
 ## Tech Stack
 
